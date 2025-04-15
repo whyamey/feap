@@ -1,5 +1,7 @@
 # Fuzzy Extractors are Practical
 
+Artifacts branch for submission.
+
 Fuzzy key derivation system for irises with 91% TAR for 105 bits of entropy. This repo contains other repositories that form the parts
 of our project. This repo only contains the V2 feature extractor.
 
