@@ -22,9 +22,9 @@ In brief, to compute entropy and TAR:
 
 ```bash
 cd lsh-lock
-./target/release/lsh-lock analyze --templates /path/to/features/test/ --input /path/to/subsets/subset --count 512
 
-./target/release/lsh-lock tar-multi templates /path/to/features/test --input /path/to/subsets/subset --count 512 --base 3 --tries 5 --input-selection /path/to/base_3.json
+./target/release/lsh-lock analyze --templates /path/to/features/test/ --input /path/to/subsets/subset --dimensions 512 --count 250000
+./target/release/lsh-lock tar-multi --templates /path/to/features/test --input /path/to/subsets/subset --count 250000 --dimensions 512 --base 3 --tries 5 --input-selection /path/to/base_3.json
 ```
 For detailed build and usage instructions, see the README in each submodule.
 
