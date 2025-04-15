@@ -1,0 +1,9 @@
+[submodule "feap-fe"]
+	path = feap-fe
+	url = git@github.com:whyamey/feap-fe.git
+[submodule "lsh-lock"]
+	path = lsh-lock
+	url = git@github.com:whyamey/lsh-lock.git
+[submodule "sample-lock"]
+	path = sample-lock
+	url = git@github.com:whyamey/sample-lock.git
