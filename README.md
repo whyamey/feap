@@ -1,25 +1,35 @@
 # Fuzzy Extractors are Practical
 
-A fuzzy key derivation system for irises with 91% TAR for 105 bits of entropy. This repository contains multiple submodules components which are used to build **ClearEyes** as described in [eprint:2024/100](https://eprint.iacr.org/2024/100).
+This repository implements ClearEyes, the current state-of-the-art fuzzy key derivation system for iris biometrics that achieves 91% True Accept Rate while maintaining 105 bits of entropy. The implementation accompanies our research paper [Fuzzy Extractors are Practical](https://eprint.iacr.org/2024/100).
 
-## Repository Structure
+All results were evaluated on the [IITD](https://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Iris.htm) dataset. 
 
-This repository consists of three primary submodules:
+## What's Inside
+The system combines three components:
 
-- **feap-fe**: Neural network-based feature extraction for iris images
-- **lsh-lock**: Analysis and evaluation of binary feature vectors for entropy and TAR
-- **sample-lock**: A cryptographic implementation of sample-then-lock fuzzy extractor in C.
+- **feap-fe**: Feature extraction pipeline that transforms segmented iris images into binary feature vectors.
+- **lsh-lock**: Analysis toolkit for zeta-sampling, quantifying entropy, and evaluating authentication performance
+- **sample-lock**: Cryptographic implementation of the sample-then-lock fuzzy extractor written in C.
 
-## Params
-The params directory is unique to this repository. It contains the input-selection for `lsh-lock` and the zip file containing
-subsets that were evaluated for performance in [eprint:2024/100](https://eprint.iacr.org/2024/100). These files need to be uncompressed. They were compressed only to get around github's upload limit.
+## Reproducing Our Results
+The params directory contains the essential configuration files needed to exactly reproduce our paper's results:
 
-For detailed build and usage instructions, refer to the README in each submodule.
+- Subsets for lsh-lock through zeta-sampling.
+- Split for confidence and test subsets. Do not use confidence subsets for testing. Split was obtained with random selection.
+- Input selection of templates used for enrollment and authentication. 
+
+In brief, to compute entropy and TAR:
+
+```bash
+cd lsh-lock
+./target/release/lsh-lock analyze --templates /path/to/features/test/ --input /path/to/subsets/subset --count 512
+
+./target/release/lsh-lock tar-multi templates /path/to/features/test --input /path/to/subsets/subset --count 512 --base 3 --tries 5 --input-selection /path/to/base_3.json
+```
+For detailed build and usage instructions, see the README in each submodule.
 
 ## Citation
-
-If you use this, please cite:
-
+If you use our work, please cite:
 ```
 @misc{cryptoeprint:2024/100,
       author = {Sohaib Ahmad and Sixia Chen and Luke Demarest and Benjamin Fuller and Caleb Manicke and Alexander Russell and Amey Shukla},
@@ -29,3 +39,6 @@ If you use this, please cite:
       url = {https://eprint.iacr.org/2024/100}
 }
 ```
+
+## License
+This project is provided under GPL. The IITD dataset has its own licensing terms which must be respected.
