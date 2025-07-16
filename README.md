@@ -1,6 +1,6 @@
 # Fuzzy Extractors are Practical
 
-This repository implements ClearEyes, the current state-of-the-art fuzzy key derivation system for iris biometrics that achieves 91% True Accept Rate while maintaining 105 bits of entropy. The implementation accompanies our research paper [Fuzzy Extractors are Practical](https://eprint.iacr.org/2024/100).
+This repository implements ClearEyes, the current state-of-the-art fuzzy key derivation system for iris biometrics that achieves 92% True Accept Rate while maintaining 105 bits of entropy. The implementation accompanies our research paper [Fuzzy Extractors are Practical](https://eprint.iacr.org/2024/100).
 
 All results were evaluated on the [IITD](https://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Iris.htm) dataset. 
 
