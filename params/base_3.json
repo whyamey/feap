@@ -1,1995 +1,1944 @@
 {
   "selections": {
-    "192": {
-      "class_name": "192",
-      "base_files": [
-        "192d5R.txt",
-        "192d9R.txt",
-        "192d7R.txt"
-      ],
-      "comparison_files": [
-        "192d8R.txt",
-        "192d6R.txt"
-      ]
-    },
-    "034": {
-      "class_name": "034",
-      "base_files": [
-        "034d9R.txt",
-        "034d6R.txt",
-        "034d8R.txt"
-      ],
-      "comparison_files": [
-        "034d5R.txt",
-        "034d7R.txt"
-      ]
-    },
-    "157": {
-      "class_name": "157",
-      "base_files": [
-        "157d8R.txt",
-        "157d6R.txt",
-        "157d9R.txt"
-      ],
-      "comparison_files": [
-        "157d5R.txt",
-        "157d7R.txt"
-      ]
-    },
-    "194": {
-      "class_name": "194",
-      "base_files": [
-        "194d5R.txt",
-        "194d6R.txt",
-        "194d8R.txt"
-      ],
-      "comparison_files": [
-        "194d9R.txt",
-        "194d7R.txt"
-      ]
-    },
-    "170": {
-      "class_name": "170",
-      "base_files": [
-        "170d9R.txt",
-        "170d5R.txt",
-        "170d6R.txt"
-      ],
-      "comparison_files": [
-        "170d7R.txt",
-        "170d8R.txt"
-      ]
-    },
-    "049": {
-      "class_name": "049",
-      "base_files": [
-        "049d5R.txt",
-        "049d8R.txt",
-        "049d6R.txt"
-      ],
-      "comparison_files": [
-        "049d7R.txt",
-        "049d9R.txt"
-      ]
-    },
-    "209": {
-      "class_name": "209",
-      "base_files": [
-        "209d7R.txt",
-        "209d8R.txt",
-        "209d9R.txt"
-      ],
-      "comparison_files": [
-        "209d5R.txt",
-        "209d6R.txt"
-      ]
-    },
-    "111": {
-      "class_name": "111",
-      "base_files": [
-        "111d5R.txt",
-        "111d8R.txt",
-        "111d7R.txt"
-      ],
-      "comparison_files": [
-        "111d9R.txt",
-        "111d6R.txt"
-      ]
-    },
-    "076": {
-      "class_name": "076",
-      "base_files": [
-        "076d8R.txt",
-        "076d5R.txt",
-        "076d9R.txt"
-      ],
-      "comparison_files": [
-        "076d6R.txt",
-        "076d7R.txt"
-      ]
-    },
-    "200": {
-      "class_name": "200",
-      "base_files": [
-        "200d5R.txt",
-        "200d8R.txt",
-        "200d6R.txt"
-      ],
-      "comparison_files": [
-        "200d9R.txt",
-        "200d7R.txt"
-      ]
-    },
-    "107": {
-      "class_name": "107",
-      "base_files": [
-        "107d9R.txt",
-        "107d5R.txt",
-        "107d6R.txt"
-      ],
-      "comparison_files": [
-        "107d7R.txt",
-        "107d8R.txt"
-      ]
-    },
-    "129": {
-      "class_name": "129",
-      "base_files": [
-        "129d7R.txt",
-        "129d8R.txt",
-        "129d5R.txt"
-      ],
-      "comparison_files": [
-        "129d9R.txt",
-        "129d6R.txt"
-      ]
-    },
-    "046": {
-      "class_name": "046",
-      "base_files": [
-        "046d7R.txt",
-        "046d9R.txt",
-        "046d8R.txt"
-      ],
-      "comparison_files": [
-        "046d6R.txt",
-        "046d5R.txt"
-      ]
-    },
-    "037": {
-      "class_name": "037",
-      "base_files": [
-        "037d9R.txt",
-        "037d7R.txt",
-        "037d6R.txt"
-      ],
-      "comparison_files": [
-        "037d8R.txt",
-        "037d5R.txt"
-      ]
-    },
-    "155": {
-      "class_name": "155",
-      "base_files": [
-        "155d8R.txt",
-        "155d9R.txt",
-        "155d5R.txt"
-      ],
-      "comparison_files": [
-        "155d6R.txt",
-        "155d7R.txt"
-      ]
-    },
-    "083": {
-      "class_name": "083",
-      "base_files": [
-        "083d7R.txt",
-        "083d6R.txt",
-        "083d8R.txt"
-      ],
-      "comparison_files": [
-        "083d5R.txt",
-        "083d9R.txt"
-      ]
-    },
-    "079": {
-      "class_name": "079",
-      "base_files": [
-        "079d5R.txt",
-        "079d8R.txt",
-        "079d6R.txt"
-      ],
-      "comparison_files": [
-        "079d9R.txt",
-        "079d7R.txt"
-      ]
-    },
-    "169": {
-      "class_name": "169",
-      "base_files": [
-        "169d7R.txt",
-        "169d6R.txt",
-        "169d5R.txt"
-      ],
-      "comparison_files": [
-        "169d8R.txt",
-        "169d9R.txt"
-      ]
-    },
-    "159": {
-      "class_name": "159",
-      "base_files": [
-        "159d8R.txt",
-        "159d6R.txt",
-        "159d9R.txt"
-      ],
-      "comparison_files": [
-        "159d7R.txt",
-        "159d5R.txt"
-      ]
-    },
-    "051": {
-      "class_name": "051",
-      "base_files": [
-        "051d9R.txt",
-        "051d6R.txt",
-        "051d8R.txt"
-      ],
-      "comparison_files": [
-        "051d7R.txt",
-        "051d5R.txt"
-      ]
-    },
-    "061": {
-      "class_name": "061",
-      "base_files": [
-        "061d5R.txt",
-        "061d7R.txt",
-        "061d8R.txt"
-      ],
-      "comparison_files": [
-        "061d9R.txt",
-        "061d6R.txt"
-      ]
-    },
-    "017": {
-      "class_name": "017",
-      "base_files": [
-        "017d8R.txt",
-        "017d6R.txt",
-        "017d7R.txt"
-      ],
-      "comparison_files": [
-        "017d5R.txt",
-        "017d9R.txt"
-      ]
-    },
-    "092": {
-      "class_name": "092",
-      "base_files": [
-        "092d9R.txt",
-        "092d6R.txt",
-        "092d7R.txt"
-      ],
-      "comparison_files": [
-        "092d5R.txt",
-        "092d8R.txt"
-      ]
-    },
-    "164": {
-      "class_name": "164",
-      "base_files": [
-        "164d6R.txt",
-        "164d8R.txt",
-        "164d5R.txt"
-      ],
-      "comparison_files": [
-        "164d9R.txt",
-        "164d7R.txt"
-      ]
-    },
-    "195": {
-      "class_name": "195",
-      "base_files": [
-        "195d9R.txt",
-        "195d6R.txt",
-        "195d7R.txt"
-      ],
-      "comparison_files": [
-        "195d8R.txt",
-        "195d5R.txt"
-      ]
-    },
-    "187": {
-      "class_name": "187",
-      "base_files": [
-        "187d7R.txt",
-        "187d8R.txt",
-        "187d9R.txt"
-      ],
-      "comparison_files": [
-        "187d6R.txt",
-        "187d5R.txt"
-      ]
-    },
-    "174": {
-      "class_name": "174",
-      "base_files": [
-        "174d6R.txt",
-        "174d7R.txt",
-        "174d8R.txt"
-      ],
-      "comparison_files": [
-        "174d9R.txt",
-        "174d5R.txt"
-      ]
-    },
-    "114": {
-      "class_name": "114",
-      "base_files": [
-        "114d9R.txt",
-        "114d8R.txt",
-        "114d5R.txt"
-      ],
-      "comparison_files": [
-        "114d7R.txt",
-        "114d6R.txt"
-      ]
-    },
-    "220": {
-      "class_name": "220",
-      "base_files": [
-        "220d9R.txt",
-        "220d8R.txt",
-        "220d5R.txt"
-      ],
-      "comparison_files": [
-        "220d6R.txt",
-        "220d7R.txt"
-      ]
-    },
-    "139": {
-      "class_name": "139",
-      "base_files": [
-        "139d9R.txt",
-        "139d5R.txt",
-        "139d6R.txt"
-      ],
-      "comparison_files": [
-        "139d8R.txt",
-        "139d7R.txt"
-      ]
-    },
-    "095": {
-      "class_name": "095",
-      "base_files": [
-        "095d9R.txt",
-        "095d7R.txt",
-        "095d6R.txt"
-      ],
-      "comparison_files": [
-        "095d5R.txt",
-        "095d8R.txt"
-      ]
-    },
-    "135": {
-      "class_name": "135",
-      "base_files": [
-        "135d5R.txt",
-        "135d8R.txt",
-        "135d6R.txt"
-      ],
-      "comparison_files": [
-        "135d9R.txt",
-        "135d7R.txt"
-      ]
-    },
-    "214": {
-      "class_name": "214",
-      "base_files": [
-        "214d5R.txt",
-        "214d7R.txt",
-        "214d9R.txt"
-      ],
-      "comparison_files": [
-        "214d8R.txt",
-        "214d6R.txt"
-      ]
-    },
-    "177": {
-      "class_name": "177",
-      "base_files": [
-        "177d8R.txt",
-        "177d7R.txt",
-        "177d5R.txt"
-      ],
-      "comparison_files": [
-        "177d9R.txt",
-        "177d6R.txt"
-      ]
-    },
-    "031": {
-      "class_name": "031",
-      "base_files": [
-        "031d9R.txt",
-        "031d5R.txt",
-        "031d7R.txt"
-      ],
-      "comparison_files": [
-        "031d8R.txt",
-        "031d6R.txt"
-      ]
-    },
-    "134": {
-      "class_name": "134",
-      "base_files": [
-        "134d7R.txt",
-        "134d6R.txt",
-        "134d8R.txt"
-      ],
-      "comparison_files": [
-        "134d5R.txt",
-        "134d9R.txt"
-      ]
-    },
-    "062": {
-      "class_name": "062",
-      "base_files": [
-        "062d6R.txt",
-        "062d5R.txt",
-        "062d8R.txt"
-      ],
-      "comparison_files": [
-        "062d9R.txt",
-        "062d7R.txt"
-      ]
-    },
-    "175": {
-      "class_name": "175",
-      "base_files": [
-        "175d7R.txt",
-        "175d8R.txt",
-        "175d9R.txt"
-      ],
-      "comparison_files": [
-        "175d6R.txt",
-        "175d5R.txt"
-      ]
-    },
-    "137": {
-      "class_name": "137",
-      "base_files": [
-        "137d5R.txt",
-        "137d6R.txt",
-        "137d8R.txt"
-      ],
-      "comparison_files": [
-        "137d7R.txt",
-        "137d9R.txt"
-      ]
-    },
-    "130": {
-      "class_name": "130",
-      "base_files": [
-        "130d5R.txt",
-        "130d8R.txt",
-        "130d7R.txt"
-      ],
-      "comparison_files": [
-        "130d9R.txt",
-        "130d6R.txt"
-      ]
-    },
-    "223": {
-      "class_name": "223",
-      "base_files": [
-        "223d6R.txt",
-        "223d9R.txt",
-        "223d8R.txt"
-      ],
-      "comparison_files": [
-        "223d5R.txt",
-        "223d7R.txt"
-      ]
-    },
-    "090": {
-      "class_name": "090",
-      "base_files": [
-        "090d7R.txt",
-        "090d9R.txt",
-        "090d6R.txt"
-      ],
-      "comparison_files": [
-        "090d8R.txt",
-        "090d5R.txt"
-      ]
-    },
-    "149": {
-      "class_name": "149",
-      "base_files": [
-        "149d6R.txt",
-        "149d5R.txt",
-        "149d9R.txt"
-      ],
-      "comparison_files": [
-        "149d8R.txt",
-        "149d7R.txt"
-      ]
-    },
-    "025": {
-      "class_name": "025",
-      "base_files": [
-        "025d6R.txt",
-        "025d5R.txt",
-        "025d7R.txt"
-      ],
-      "comparison_files": [
-        "025d9R.txt",
-        "025d8R.txt"
-      ]
-    },
-    "084": {
-      "class_name": "084",
-      "base_files": [
-        "084d5R.txt",
-        "084d7R.txt",
-        "084d8R.txt"
-      ],
-      "comparison_files": [
-        "084d6R.txt",
-        "084d9R.txt"
-      ]
-    },
     "014": {
       "class_name": "014",
       "base_files": [
-        "014d7R.txt",
-        "014d5R.txt",
-        "014d8R.txt"
+        "07_R",
+        "09_R",
+        "10_R"
       ],
       "comparison_files": [
-        "014d9R.txt",
-        "014d6R.txt"
-      ]
-    },
-    "147": {
-      "class_name": "147",
-      "base_files": [
-        "147d7R.txt",
-        "147d6R.txt",
-        "147d9R.txt"
-      ],
-      "comparison_files": [
-        "147d8R.txt",
-        "147d5R.txt"
-      ]
-    },
-    "105": {
-      "class_name": "105",
-      "base_files": [
-        "105d6R.txt",
-        "105d9R.txt",
-        "105d5R.txt"
-      ],
-      "comparison_files": [
-        "105d7R.txt",
-        "105d8R.txt"
-      ]
-    },
-    "191": {
-      "class_name": "191",
-      "base_files": [
-        "191d7R.txt",
-        "191d9R.txt",
-        "191d8R.txt"
-      ],
-      "comparison_files": [
-        "191d5R.txt",
-        "191d6R.txt"
-      ]
-    },
-    "098": {
-      "class_name": "098",
-      "base_files": [
-        "098d9R.txt",
-        "098d8R.txt",
-        "098d7R.txt"
-      ],
-      "comparison_files": [
-        "098d5R.txt",
-        "098d6R.txt"
-      ]
-    },
-    "117": {
-      "class_name": "117",
-      "base_files": [
-        "117d7R.txt",
-        "117d6R.txt",
-        "117d8R.txt"
-      ],
-      "comparison_files": [
-        "117d5R.txt",
-        "117d9R.txt"
-      ]
-    },
-    "119": {
-      "class_name": "119",
-      "base_files": [
-        "119d7R.txt",
-        "119d6R.txt",
-        "119d9R.txt"
-      ],
-      "comparison_files": [
-        "119d5R.txt",
-        "119d8R.txt"
-      ]
-    },
-    "040": {
-      "class_name": "040",
-      "base_files": [
-        "040d5R.txt",
-        "040d9R.txt",
-        "040d8R.txt"
-      ],
-      "comparison_files": [
-        "040d7R.txt",
-        "040d6R.txt"
-      ]
-    },
-    "072": {
-      "class_name": "072",
-      "base_files": [
-        "072d7R.txt",
-        "072d9R.txt",
-        "072d5R.txt"
-      ],
-      "comparison_files": [
-        "072d8R.txt",
-        "072d6R.txt"
-      ]
-    },
-    "121": {
-      "class_name": "121",
-      "base_files": [
-        "121d8R.txt",
-        "121d6R.txt",
-        "121d5R.txt"
-      ],
-      "comparison_files": [
-        "121d9R.txt",
-        "121d7R.txt"
-      ]
-    },
-    "213": {
-      "class_name": "213",
-      "base_files": [
-        "213d9R.txt",
-        "213d5R.txt",
-        "213d8R.txt"
-      ],
-      "comparison_files": [
-        "213d7R.txt",
-        "213d6R.txt"
+        "06_R",
+        "08_R"
       ]
     },
     "016": {
       "class_name": "016",
       "base_files": [
-        "016d9R.txt",
-        "016d7R.txt",
-        "016d5R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "016d6R.txt",
-        "016d8R.txt"
-      ]
-    },
-    "125": {
-      "class_name": "125",
-      "base_files": [
-        "125d9R.txt",
-        "125d7R.txt",
-        "125d6R.txt"
-      ],
-      "comparison_files": [
-        "125d8R.txt",
-        "125d5R.txt"
-      ]
-    },
-    "106": {
-      "class_name": "106",
-      "base_files": [
-        "106d6R.txt",
-        "106d8R.txt",
-        "106d7R.txt"
-      ],
-      "comparison_files": [
-        "106d9R.txt",
-        "106d5R.txt"
-      ]
-    },
-    "221": {
-      "class_name": "221",
-      "base_files": [
-        "221d9R.txt",
-        "221d7R.txt",
-        "221d6R.txt"
-      ],
-      "comparison_files": [
-        "221d8R.txt",
-        "221d5R.txt"
-      ]
-    },
-    "053": {
-      "class_name": "053",
-      "base_files": [
-        "053d7R.txt",
-        "053d9R.txt",
-        "053d6R.txt"
-      ],
-      "comparison_files": [
-        "053d8R.txt",
-        "053d5R.txt"
-      ]
-    },
-    "026": {
-      "class_name": "026",
-      "base_files": [
-        "026d6R.txt",
-        "026d5R.txt",
-        "026d7R.txt"
-      ],
-      "comparison_files": [
-        "026d9R.txt",
-        "026d8R.txt"
-      ]
-    },
-    "198": {
-      "class_name": "198",
-      "base_files": [
-        "198d7R.txt",
-        "198d9R.txt",
-        "198d5R.txt"
-      ],
-      "comparison_files": [
-        "198d6R.txt",
-        "198d8R.txt"
-      ]
-    },
-    "190": {
-      "class_name": "190",
-      "base_files": [
-        "190d8R.txt",
-        "190d6R.txt",
-        "190d9R.txt"
-      ],
-      "comparison_files": [
-        "190d5R.txt",
-        "190d7R.txt"
-      ]
-    },
-    "203": {
-      "class_name": "203",
-      "base_files": [
-        "203d7R.txt",
-        "203d9R.txt",
-        "203d5R.txt"
-      ],
-      "comparison_files": [
-        "203d8R.txt",
-        "203d6R.txt"
-      ]
-    },
-    "152": {
-      "class_name": "152",
-      "base_files": [
-        "152d6R.txt",
-        "152d7R.txt",
-        "152d5R.txt"
-      ],
-      "comparison_files": [
-        "152d8R.txt",
-        "152d9R.txt"
-      ]
-    },
-    "208": {
-      "class_name": "208",
-      "base_files": [
-        "208d7R.txt",
-        "208d6R.txt",
-        "208d8R.txt"
-      ],
-      "comparison_files": [
-        "208d9R.txt",
-        "208d5R.txt"
-      ]
-    },
-    "041": {
-      "class_name": "041",
-      "base_files": [
-        "041d9R.txt",
-        "041d7R.txt",
-        "041d6R.txt"
-      ],
-      "comparison_files": [
-        "041d5R.txt",
-        "041d8R.txt"
-      ]
-    },
-    "153": {
-      "class_name": "153",
-      "base_files": [
-        "153d6R.txt",
-        "153d5R.txt",
-        "153d9R.txt"
-      ],
-      "comparison_files": [
-        "153d7R.txt",
-        "153d8R.txt"
-      ]
-    },
-    "100": {
-      "class_name": "100",
-      "base_files": [
-        "100d5R.txt",
-        "100d7R.txt",
-        "100d9R.txt"
-      ],
-      "comparison_files": [
-        "100d6R.txt",
-        "100d8R.txt"
-      ]
-    },
-    "060": {
-      "class_name": "060",
-      "base_files": [
-        "060d5R.txt",
-        "060d6R.txt",
-        "060d9R.txt"
-      ],
-      "comparison_files": [
-        "060d8R.txt",
-        "060d7R.txt"
-      ]
-    },
-    "112": {
-      "class_name": "112",
-      "base_files": [
-        "112d9R.txt",
-        "112d8R.txt",
-        "112d5R.txt"
-      ],
-      "comparison_files": [
-        "112d6R.txt",
-        "112d7R.txt"
-      ]
-    },
-    "067": {
-      "class_name": "067",
-      "base_files": [
-        "067d7R.txt",
-        "067d5R.txt",
-        "067d8R.txt"
-      ],
-      "comparison_files": [
-        "067d9R.txt",
-        "067d6R.txt"
-      ]
-    },
-    "048": {
-      "class_name": "048",
-      "base_files": [
-        "048d7R.txt",
-        "048d9R.txt",
-        "048d6R.txt"
-      ],
-      "comparison_files": [
-        "048d8R.txt",
-        "048d5R.txt"
-      ]
-    },
-    "096": {
-      "class_name": "096",
-      "base_files": [
-        "096d6R.txt",
-        "096d9R.txt",
-        "096d7R.txt"
-      ],
-      "comparison_files": [
-        "096d8R.txt",
-        "096d5R.txt"
-      ]
-    },
-    "216": {
-      "class_name": "216",
-      "base_files": [
-        "216d6R.txt",
-        "216d7R.txt",
-        "216d8R.txt"
-      ],
-      "comparison_files": [
-        "216d9R.txt",
-        "216d5R.txt"
-      ]
-    },
-    "058": {
-      "class_name": "058",
-      "base_files": [
-        "058d8R.txt",
-        "058d5R.txt",
-        "058d9R.txt"
-      ],
-      "comparison_files": [
-        "058d6R.txt",
-        "058d7R.txt"
-      ]
-    },
-    "039": {
-      "class_name": "039",
-      "base_files": [
-        "039d5R.txt",
-        "039d6R.txt",
-        "039d8R.txt"
-      ],
-      "comparison_files": [
-        "039d7R.txt",
-        "039d9R.txt"
-      ]
-    },
-    "222": {
-      "class_name": "222",
-      "base_files": [
-        "222d7R.txt",
-        "222d5R.txt",
-        "222d8R.txt"
-      ],
-      "comparison_files": [
-        "222d6R.txt",
-        "222d9R.txt"
-      ]
-    },
-    "201": {
-      "class_name": "201",
-      "base_files": [
-        "201d8R.txt",
-        "201d7R.txt",
-        "201d5R.txt"
-      ],
-      "comparison_files": [
-        "201d9R.txt",
-        "201d6R.txt"
-      ]
-    },
-    "078": {
-      "class_name": "078",
-      "base_files": [
-        "078d5R.txt",
-        "078d6R.txt",
-        "078d9R.txt"
-      ],
-      "comparison_files": [
-        "078d8R.txt",
-        "078d7R.txt"
-      ]
-    },
-    "145": {
-      "class_name": "145",
-      "base_files": [
-        "145d7R.txt",
-        "145d5R.txt",
-        "145d8R.txt"
-      ],
-      "comparison_files": [
-        "145d6R.txt",
-        "145d9R.txt"
-      ]
-    },
-    "124": {
-      "class_name": "124",
-      "base_files": [
-        "124d6R.txt",
-        "124d8R.txt",
-        "124d9R.txt"
-      ],
-      "comparison_files": [
-        "124d7R.txt",
-        "124d5R.txt"
-      ]
-    },
-    "102": {
-      "class_name": "102",
-      "base_files": [
-        "102d7R.txt",
-        "102d5R.txt",
-        "102d8R.txt"
-      ],
-      "comparison_files": [
-        "102d6R.txt",
-        "102d9R.txt"
-      ]
-    },
-    "184": {
-      "class_name": "184",
-      "base_files": [
-        "184d7R.txt",
-        "184d8R.txt",
-        "184d6R.txt"
-      ],
-      "comparison_files": [
-        "184d5R.txt",
-        "184d9R.txt"
-      ]
-    },
-    "181": {
-      "class_name": "181",
-      "base_files": [
-        "181d8R.txt",
-        "181d6R.txt",
-        "181d9R.txt"
-      ],
-      "comparison_files": [
-        "181d7R.txt",
-        "181d5R.txt"
-      ]
-    },
-    "103": {
-      "class_name": "103",
-      "base_files": [
-        "103d9R.txt",
-        "103d6R.txt",
-        "103d5R.txt"
-      ],
-      "comparison_files": [
-        "103d7R.txt",
-        "103d8R.txt"
-      ]
-    },
-    "036": {
-      "class_name": "036",
-      "base_files": [
-        "036d8R.txt",
-        "036d6R.txt",
-        "036d7R.txt"
-      ],
-      "comparison_files": [
-        "036d5R.txt",
-        "036d9R.txt"
-      ]
-    },
-    "202": {
-      "class_name": "202",
-      "base_files": [
-        "202d5R.txt",
-        "202d8R.txt",
-        "202d9R.txt"
-      ],
-      "comparison_files": [
-        "202d6R.txt",
-        "202d7R.txt"
-      ]
-    },
-    "142": {
-      "class_name": "142",
-      "base_files": [
-        "142d6R.txt",
-        "142d9R.txt",
-        "142d7R.txt"
-      ],
-      "comparison_files": [
-        "142d8R.txt",
-        "142d5R.txt"
-      ]
-    },
-    "215": {
-      "class_name": "215",
-      "base_files": [
-        "215d7R.txt",
-        "215d6R.txt",
-        "215d8R.txt"
-      ],
-      "comparison_files": [
-        "215d9R.txt",
-        "215d5R.txt"
-      ]
-    },
-    "054": {
-      "class_name": "054",
-      "base_files": [
-        "054d5R.txt",
-        "054d8R.txt",
-        "054d9R.txt"
-      ],
-      "comparison_files": [
-        "054d6R.txt",
-        "054d7R.txt"
-      ]
-    },
-    "020": {
-      "class_name": "020",
-      "base_files": [
-        "020d6R.txt",
-        "020d5R.txt",
-        "020d9R.txt"
-      ],
-      "comparison_files": [
-        "020d7R.txt",
-        "020d8R.txt"
-      ]
-    },
-    "178": {
-      "class_name": "178",
-      "base_files": [
-        "178d7R.txt",
-        "178d6R.txt",
-        "178d8R.txt"
-      ],
-      "comparison_files": [
-        "178d5R.txt",
-        "178d9R.txt"
-      ]
-    },
-    "030": {
-      "class_name": "030",
-      "base_files": [
-        "030d8R.txt",
-        "030d6R.txt",
-        "030d5R.txt"
-      ],
-      "comparison_files": [
-        "030d7R.txt",
-        "030d9R.txt"
-      ]
-    },
-    "085": {
-      "class_name": "085",
-      "base_files": [
-        "085d8R.txt",
-        "085d7R.txt",
-        "085d6R.txt"
-      ],
-      "comparison_files": [
-        "085d5R.txt",
-        "085d9R.txt"
-      ]
-    },
-    "207": {
-      "class_name": "207",
-      "base_files": [
-        "207d6R.txt",
-        "207d8R.txt",
-        "207d5R.txt"
-      ],
-      "comparison_files": [
-        "207d9R.txt",
-        "207d7R.txt"
-      ]
-    },
-    "109": {
-      "class_name": "109",
-      "base_files": [
-        "109d5R.txt",
-        "109d7R.txt",
-        "109d9R.txt"
-      ],
-      "comparison_files": [
-        "109d8R.txt",
-        "109d6R.txt"
-      ]
-    },
-    "173": {
-      "class_name": "173",
-      "base_files": [
-        "173d8R.txt",
-        "173d5R.txt",
-        "173d9R.txt"
-      ],
-      "comparison_files": [
-        "173d6R.txt",
-        "173d7R.txt"
-      ]
-    },
-    "042": {
-      "class_name": "042",
-      "base_files": [
-        "042d7R.txt",
-        "042d9R.txt",
-        "042d5R.txt"
-      ],
-      "comparison_files": [
-        "042d6R.txt",
-        "042d8R.txt"
+        "08_R",
+        "06_R"
       ]
     },
     "018": {
       "class_name": "018",
       "base_files": [
-        "018d5R.txt",
-        "018d7R.txt",
-        "018d6R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "018d8R.txt",
-        "018d9R.txt"
+        "06_R",
+        "08_R"
       ]
     },
-    "133": {
-      "class_name": "133",
+    "020": {
+      "class_name": "020",
       "base_files": [
-        "133d9R.txt",
-        "133d7R.txt",
-        "133d5R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "133d6R.txt",
-        "133d8R.txt"
-      ]
-    },
-    "047": {
-      "class_name": "047",
-      "base_files": [
-        "047d9R.txt",
-        "047d7R.txt",
-        "047d8R.txt"
-      ],
-      "comparison_files": [
-        "047d6R.txt",
-        "047d5R.txt"
-      ]
-    },
-    "154": {
-      "class_name": "154",
-      "base_files": [
-        "154d6R.txt",
-        "154d7R.txt",
-        "154d5R.txt"
-      ],
-      "comparison_files": [
-        "154d8R.txt",
-        "154d9R.txt"
-      ]
-    },
-    "070": {
-      "class_name": "070",
-      "base_files": [
-        "070d9R.txt",
-        "070d8R.txt",
-        "070d6R.txt"
-      ],
-      "comparison_files": [
-        "070d7R.txt",
-        "070d5R.txt"
-      ]
-    },
-    "210": {
-      "class_name": "210",
-      "base_files": [
-        "210d7R.txt",
-        "210d6R.txt",
-        "210d9R.txt"
-      ],
-      "comparison_files": [
-        "210d8R.txt",
-        "210d5R.txt"
-      ]
-    },
-    "086": {
-      "class_name": "086",
-      "base_files": [
-        "086d6R.txt",
-        "086d5R.txt",
-        "086d7R.txt"
-      ],
-      "comparison_files": [
-        "086d8R.txt",
-        "086d9R.txt"
-      ]
-    },
-    "161": {
-      "class_name": "161",
-      "base_files": [
-        "161d6R.txt",
-        "161d5R.txt",
-        "161d8R.txt"
-      ],
-      "comparison_files": [
-        "161d9R.txt",
-        "161d7R.txt"
-      ]
-    },
-    "082": {
-      "class_name": "082",
-      "base_files": [
-        "082d8R.txt",
-        "082d7R.txt",
-        "082d9R.txt"
-      ],
-      "comparison_files": [
-        "082d5R.txt",
-        "082d6R.txt"
-      ]
-    },
-    "057": {
-      "class_name": "057",
-      "base_files": [
-        "057d5R.txt",
-        "057d9R.txt",
-        "057d7R.txt"
-      ],
-      "comparison_files": [
-        "057d6R.txt",
-        "057d8R.txt"
-      ]
-    },
-    "087": {
-      "class_name": "087",
-      "base_files": [
-        "087d8R.txt",
-        "087d9R.txt",
-        "087d6R.txt"
-      ],
-      "comparison_files": [
-        "087d5R.txt",
-        "087d7R.txt"
-      ]
-    },
-    "123": {
-      "class_name": "123",
-      "base_files": [
-        "123d9R.txt",
-        "123d7R.txt",
-        "123d6R.txt"
-      ],
-      "comparison_files": [
-        "123d8R.txt",
-        "123d5R.txt"
-      ]
-    },
-    "162": {
-      "class_name": "162",
-      "base_files": [
-        "162d8R.txt",
-        "162d9R.txt",
-        "162d7R.txt"
-      ],
-      "comparison_files": [
-        "162d6R.txt",
-        "162d5R.txt"
-      ]
-    },
-    "199": {
-      "class_name": "199",
-      "base_files": [
-        "199d9R.txt",
-        "199d7R.txt",
-        "199d8R.txt"
-      ],
-      "comparison_files": [
-        "199d6R.txt",
-        "199d5R.txt"
-      ]
-    },
-    "043": {
-      "class_name": "043",
-      "base_files": [
-        "043d8R.txt",
-        "043d9R.txt",
-        "043d7R.txt"
-      ],
-      "comparison_files": [
-        "043d6R.txt",
-        "043d5R.txt"
-      ]
-    },
-    "077": {
-      "class_name": "077",
-      "base_files": [
-        "077d6R.txt",
-        "077d7R.txt",
-        "077d8R.txt"
-      ],
-      "comparison_files": [
-        "077d9R.txt",
-        "077d5R.txt"
-      ]
-    },
-    "136": {
-      "class_name": "136",
-      "base_files": [
-        "136d7R.txt",
-        "136d9R.txt",
-        "136d6R.txt"
-      ],
-      "comparison_files": [
-        "136d8R.txt",
-        "136d5R.txt"
-      ]
-    },
-    "063": {
-      "class_name": "063",
-      "base_files": [
-        "063d6R.txt",
-        "063d8R.txt",
-        "063d5R.txt"
-      ],
-      "comparison_files": [
-        "063d9R.txt",
-        "063d7R.txt"
-      ]
-    },
-    "212": {
-      "class_name": "212",
-      "base_files": [
-        "212d5R.txt",
-        "212d8R.txt",
-        "212d7R.txt"
-      ],
-      "comparison_files": [
-        "212d6R.txt",
-        "212d9R.txt"
-      ]
-    },
-    "128": {
-      "class_name": "128",
-      "base_files": [
-        "128d5R.txt",
-        "128d9R.txt",
-        "128d7R.txt"
-      ],
-      "comparison_files": [
-        "128d8R.txt",
-        "128d6R.txt"
-      ]
-    },
-    "219": {
-      "class_name": "219",
-      "base_files": [
-        "219d6R.txt",
-        "219d7R.txt",
-        "219d8R.txt"
-      ],
-      "comparison_files": [
-        "219d9R.txt",
-        "219d5R.txt"
-      ]
-    },
-    "131": {
-      "class_name": "131",
-      "base_files": [
-        "131d6R.txt",
-        "131d7R.txt",
-        "131d9R.txt"
-      ],
-      "comparison_files": [
-        "131d8R.txt",
-        "131d5R.txt"
-      ]
-    },
-    "144": {
-      "class_name": "144",
-      "base_files": [
-        "144d9R.txt",
-        "144d7R.txt",
-        "144d5R.txt"
-      ],
-      "comparison_files": [
-        "144d8R.txt",
-        "144d6R.txt"
-      ]
-    },
-    "166": {
-      "class_name": "166",
-      "base_files": [
-        "166d8R.txt",
-        "166d6R.txt",
-        "166d5R.txt"
-      ],
-      "comparison_files": [
-        "166d7R.txt",
-        "166d9R.txt"
-      ]
-    },
-    "126": {
-      "class_name": "126",
-      "base_files": [
-        "126d9R.txt",
-        "126d6R.txt",
-        "126d8R.txt"
-      ],
-      "comparison_files": [
-        "126d5R.txt",
-        "126d7R.txt"
-      ]
-    },
-    "091": {
-      "class_name": "091",
-      "base_files": [
-        "091d8R.txt",
-        "091d9R.txt",
-        "091d5R.txt"
-      ],
-      "comparison_files": [
-        "091d7R.txt",
-        "091d6R.txt"
-      ]
-    },
-    "165": {
-      "class_name": "165",
-      "base_files": [
-        "165d6R.txt",
-        "165d8R.txt",
-        "165d5R.txt"
-      ],
-      "comparison_files": [
-        "165d7R.txt",
-        "165d9R.txt"
-      ]
-    },
-    "167": {
-      "class_name": "167",
-      "base_files": [
-        "167d9R.txt",
-        "167d8R.txt",
-        "167d6R.txt"
-      ],
-      "comparison_files": [
-        "167d5R.txt",
-        "167d7R.txt"
-      ]
-    },
-    "093": {
-      "class_name": "093",
-      "base_files": [
-        "093d5R.txt",
-        "093d8R.txt",
-        "093d7R.txt"
-      ],
-      "comparison_files": [
-        "093d9R.txt",
-        "093d6R.txt"
-      ]
-    },
-    "193": {
-      "class_name": "193",
-      "base_files": [
-        "193d5R.txt",
-        "193d8R.txt",
-        "193d6R.txt"
-      ],
-      "comparison_files": [
-        "193d9R.txt",
-        "193d7R.txt"
-      ]
-    },
-    "163": {
-      "class_name": "163",
-      "base_files": [
-        "163d6R.txt",
-        "163d5R.txt",
-        "163d7R.txt"
-      ],
-      "comparison_files": [
-        "163d8R.txt",
-        "163d9R.txt"
-      ]
-    },
-    "156": {
-      "class_name": "156",
-      "base_files": [
-        "156d8R.txt",
-        "156d7R.txt",
-        "156d5R.txt"
-      ],
-      "comparison_files": [
-        "156d9R.txt",
-        "156d6R.txt"
-      ]
-    },
-    "197": {
-      "class_name": "197",
-      "base_files": [
-        "197d9R.txt",
-        "197d8R.txt",
-        "197d5R.txt"
-      ],
-      "comparison_files": [
-        "197d7R.txt",
-        "197d6R.txt"
-      ]
-    },
-    "050": {
-      "class_name": "050",
-      "base_files": [
-        "050d5R.txt",
-        "050d7R.txt",
-        "050d9R.txt"
-      ],
-      "comparison_files": [
-        "050d8R.txt",
-        "050d6R.txt"
-      ]
-    },
-    "116": {
-      "class_name": "116",
-      "base_files": [
-        "116d8R.txt",
-        "116d7R.txt",
-        "116d9R.txt"
-      ],
-      "comparison_files": [
-        "116d5R.txt",
-        "116d6R.txt"
-      ]
-    },
-    "110": {
-      "class_name": "110",
-      "base_files": [
-        "110d8R.txt",
-        "110d6R.txt",
-        "110d9R.txt"
-      ],
-      "comparison_files": [
-        "110d5R.txt",
-        "110d7R.txt"
-      ]
-    },
-    "140": {
-      "class_name": "140",
-      "base_files": [
-        "140d8R.txt",
-        "140d5R.txt",
-        "140d7R.txt"
-      ],
-      "comparison_files": [
-        "140d9R.txt",
-        "140d6R.txt"
-      ]
-    },
-    "183": {
-      "class_name": "183",
-      "base_files": [
-        "183d5R.txt",
-        "183d9R.txt",
-        "183d6R.txt"
-      ],
-      "comparison_files": [
-        "183d8R.txt",
-        "183d7R.txt"
-      ]
-    },
-    "113": {
-      "class_name": "113",
-      "base_files": [
-        "113d7R.txt",
-        "113d6R.txt",
-        "113d9R.txt"
-      ],
-      "comparison_files": [
-        "113d5R.txt",
-        "113d8R.txt"
-      ]
-    },
-    "071": {
-      "class_name": "071",
-      "base_files": [
-        "071d9R.txt",
-        "071d7R.txt",
-        "071d8R.txt"
-      ],
-      "comparison_files": [
-        "071d5R.txt",
-        "071d6R.txt"
-      ]
-    },
-    "204": {
-      "class_name": "204",
-      "base_files": [
-        "204d7R.txt",
-        "204d6R.txt",
-        "204d5R.txt"
-      ],
-      "comparison_files": [
-        "204d8R.txt",
-        "204d9R.txt"
-      ]
-    },
-    "205": {
-      "class_name": "205",
-      "base_files": [
-        "205d7R.txt",
-        "205d9R.txt",
-        "205d5R.txt"
-      ],
-      "comparison_files": [
-        "205d6R.txt",
-        "205d8R.txt"
-      ]
-    },
-    "094": {
-      "class_name": "094",
-      "base_files": [
-        "094d5R.txt",
-        "094d6R.txt",
-        "094d8R.txt"
-      ],
-      "comparison_files": [
-        "094d7R.txt",
-        "094d9R.txt"
-      ]
-    },
-    "118": {
-      "class_name": "118",
-      "base_files": [
-        "118d6R.txt",
-        "118d8R.txt",
-        "118d5R.txt"
-      ],
-      "comparison_files": [
-        "118d9R.txt",
-        "118d7R.txt"
-      ]
-    },
-    "160": {
-      "class_name": "160",
-      "base_files": [
-        "160d6R.txt",
-        "160d7R.txt",
-        "160d8R.txt"
-      ],
-      "comparison_files": [
-        "160d9R.txt",
-        "160d5R.txt"
-      ]
-    },
-    "052": {
-      "class_name": "052",
-      "base_files": [
-        "052d7R.txt",
-        "052d8R.txt",
-        "052d6R.txt"
-      ],
-      "comparison_files": [
-        "052d9R.txt",
-        "052d5R.txt"
-      ]
-    },
-    "019": {
-      "class_name": "019",
-      "base_files": [
-        "019d9R.txt",
-        "019d8R.txt",
-        "019d7R.txt"
-      ],
-      "comparison_files": [
-        "019d6R.txt",
-        "019d5R.txt"
-      ]
-    },
-    "138": {
-      "class_name": "138",
-      "base_files": [
-        "138d6R.txt",
-        "138d5R.txt",
-        "138d8R.txt"
-      ],
-      "comparison_files": [
-        "138d9R.txt",
-        "138d7R.txt"
-      ]
-    },
-    "069": {
-      "class_name": "069",
-      "base_files": [
-        "069d7R.txt",
-        "069d5R.txt",
-        "069d9R.txt"
-      ],
-      "comparison_files": [
-        "069d6R.txt",
-        "069d8R.txt"
-      ]
-    },
-    "120": {
-      "class_name": "120",
-      "base_files": [
-        "120d9R.txt",
-        "120d7R.txt",
-        "120d6R.txt"
-      ],
-      "comparison_files": [
-        "120d5R.txt",
-        "120d8R.txt"
-      ]
-    },
-    "045": {
-      "class_name": "045",
-      "base_files": [
-        "045d5R.txt",
-        "045d9R.txt",
-        "045d7R.txt"
-      ],
-      "comparison_files": [
-        "045d6R.txt",
-        "045d8R.txt"
-      ]
-    },
-    "066": {
-      "class_name": "066",
-      "base_files": [
-        "066d9R.txt",
-        "066d6R.txt",
-        "066d8R.txt"
-      ],
-      "comparison_files": [
-        "066d7R.txt",
-        "066d5R.txt"
-      ]
-    },
-    "032": {
-      "class_name": "032",
-      "base_files": [
-        "032d7R.txt",
-        "032d8R.txt",
-        "032d9R.txt"
-      ],
-      "comparison_files": [
-        "032d6R.txt",
-        "032d5R.txt"
-      ]
-    },
-    "171": {
-      "class_name": "171",
-      "base_files": [
-        "171d7R.txt",
-        "171d5R.txt",
-        "171d8R.txt"
-      ],
-      "comparison_files": [
-        "171d6R.txt",
-        "171d9R.txt"
-      ]
-    },
-    "035": {
-      "class_name": "035",
-      "base_files": [
-        "035d5R.txt",
-        "035d9R.txt",
-        "035d6R.txt"
-      ],
-      "comparison_files": [
-        "035d8R.txt",
-        "035d7R.txt"
-      ]
-    },
-    "158": {
-      "class_name": "158",
-      "base_files": [
-        "158d5R.txt",
-        "158d9R.txt",
-        "158d8R.txt"
-      ],
-      "comparison_files": [
-        "158d7R.txt",
-        "158d6R.txt"
-      ]
-    },
-    "189": {
-      "class_name": "189",
-      "base_files": [
-        "189d9R.txt",
-        "189d5R.txt",
-        "189d6R.txt"
-      ],
-      "comparison_files": [
-        "189d7R.txt",
-        "189d8R.txt"
-      ]
-    },
-    "088": {
-      "class_name": "088",
-      "base_files": [
-        "088d8R.txt",
-        "088d9R.txt",
-        "088d6R.txt"
-      ],
-      "comparison_files": [
-        "088d5R.txt",
-        "088d7R.txt"
-      ]
-    },
-    "146": {
-      "class_name": "146",
-      "base_files": [
-        "146d7R.txt",
-        "146d5R.txt",
-        "146d9R.txt"
-      ],
-      "comparison_files": [
-        "146d8R.txt",
-        "146d6R.txt"
-      ]
-    },
-    "176": {
-      "class_name": "176",
-      "base_files": [
-        "176d9R.txt",
-        "176d8R.txt",
-        "176d5R.txt"
-      ],
-      "comparison_files": [
-        "176d6R.txt",
-        "176d7R.txt"
+        "06_R",
+        "08_R"
       ]
     },
     "021": {
       "class_name": "021",
       "base_files": [
-        "021d8R.txt",
-        "021d7R.txt",
-        "021d5R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "021d6R.txt",
-        "021d9R.txt"
+        "08_R",
+        "06_R"
       ]
     },
-    "150": {
-      "class_name": "150",
+    "025": {
+      "class_name": "025",
       "base_files": [
-        "150d5R.txt",
-        "150d6R.txt",
-        "150d8R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "150d7R.txt",
-        "150d9R.txt"
+        "06_R",
+        "08_R"
+      ]
+    },
+    "026": {
+      "class_name": "026",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "027": {
+      "class_name": "027",
+      "base_files": [
+        "10_R",
+        "08_R"
+      ],
+      "comparison_files": [
+        "07_R",
+        "09_R"
+      ]
+    },
+    "030": {
+      "class_name": "030",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "031": {
+      "class_name": "031",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "032": {
+      "class_name": "032",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "034": {
+      "class_name": "034",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "035": {
+      "class_name": "035",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "036": {
+      "class_name": "036",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "039": {
+      "class_name": "039",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "040": {
+      "class_name": "040",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "041": {
+      "class_name": "041",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "042": {
+      "class_name": "042",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "043": {
+      "class_name": "043",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "045": {
+      "class_name": "045",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "046": {
+      "class_name": "046",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "047": {
+      "class_name": "047",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "048": {
+      "class_name": "048",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "049": {
+      "class_name": "049",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "050": {
+      "class_name": "050",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "051": {
+      "class_name": "051",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "052": {
+      "class_name": "052",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "054": {
+      "class_name": "054",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "055": {
+      "class_name": "055",
+      "base_files": [
+        "10_R",
+        "08_R"
+      ],
+      "comparison_files": [
+        "09_R",
+        "07_R"
+      ]
+    },
+    "057": {
+      "class_name": "057",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "058": {
+      "class_name": "058",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
       ]
     },
     "059": {
       "class_name": "059",
       "base_files": [
-        "059d7R.txt",
-        "059d6R.txt",
-        "059d9R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "059d5R.txt",
-        "059d8R.txt"
+        "06_R",
+        "08_R"
+      ]
+    },
+    "060": {
+      "class_name": "060",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "061": {
+      "class_name": "061",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "062": {
+      "class_name": "062",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "063": {
+      "class_name": "063",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "065": {
+      "class_name": "065",
+      "base_files": [
+        "10_R",
+        "08_R"
+      ],
+      "comparison_files": [
+        "07_R",
+        "09_R"
+      ]
+    },
+    "066": {
+      "class_name": "066",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "067": {
+      "class_name": "067",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
       ]
     },
     "068": {
       "class_name": "068",
       "base_files": [
-        "068d5R.txt",
-        "068d7R.txt",
-        "068d6R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "068d9R.txt",
-        "068d8R.txt"
+        "06_R",
+        "08_R"
+      ]
+    },
+    "069": {
+      "class_name": "069",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "070": {
+      "class_name": "070",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "071": {
+      "class_name": "071",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "072": {
+      "class_name": "072",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "076": {
+      "class_name": "076",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "077": {
+      "class_name": "077",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "078": {
+      "class_name": "078",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "079": {
+      "class_name": "079",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "082": {
+      "class_name": "082",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "083": {
+      "class_name": "083",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "084": {
+      "class_name": "084",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "085": {
+      "class_name": "085",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "086": {
+      "class_name": "086",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "087": {
+      "class_name": "087",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "088": {
+      "class_name": "088",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "090": {
+      "class_name": "090",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "091": {
+      "class_name": "091",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "092": {
+      "class_name": "092",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "093": {
+      "class_name": "093",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "095": {
+      "class_name": "095",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "096": {
+      "class_name": "096",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "098": {
+      "class_name": "098",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "100": {
+      "class_name": "100",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "102": {
+      "class_name": "102",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "103": {
+      "class_name": "103",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "105": {
+      "class_name": "105",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "106": {
+      "class_name": "106",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "107": {
+      "class_name": "107",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
       ]
     },
     "108": {
       "class_name": "108",
       "base_files": [
-        "108d8R.txt",
-        "108d9R.txt",
-        "108d5R.txt"
+        "10_R",
+        "09_R",
+        "07_R"
       ],
       "comparison_files": [
-        "108d7R.txt",
-        "108d6R.txt"
+        "08_R",
+        "06_R"
+      ]
+    },
+    "109": {
+      "class_name": "109",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "110": {
+      "class_name": "110",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "111": {
+      "class_name": "111",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "112": {
+      "class_name": "112",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "113": {
+      "class_name": "113",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "114": {
+      "class_name": "114",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "116": {
+      "class_name": "116",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "117": {
+      "class_name": "117",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "118": {
+      "class_name": "118",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "119": {
+      "class_name": "119",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "120": {
+      "class_name": "120",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "121": {
+      "class_name": "121",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "123": {
+      "class_name": "123",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "124": {
+      "class_name": "124",
+      "base_files": [
+        "09_R",
+        "07_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "125": {
+      "class_name": "125",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "126": {
+      "class_name": "126",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "128": {
+      "class_name": "128",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "129": {
+      "class_name": "129",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "130": {
+      "class_name": "130",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "131": {
+      "class_name": "131",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "133": {
+      "class_name": "133",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "134": {
+      "class_name": "134",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "135": {
+      "class_name": "135",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "136": {
+      "class_name": "136",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "137": {
+      "class_name": "137",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "138": {
+      "class_name": "138",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "139": {
+      "class_name": "139",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "142": {
+      "class_name": "142",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "144": {
+      "class_name": "144",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "145": {
+      "class_name": "145",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "146": {
+      "class_name": "146",
+      "base_files": [
+        "09_R",
+        "07_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "147": {
+      "class_name": "147",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "149": {
+      "class_name": "149",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "150": {
+      "class_name": "150",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "152": {
+      "class_name": "152",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "153": {
+      "class_name": "153",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "154": {
+      "class_name": "154",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "155": {
+      "class_name": "155",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "157": {
+      "class_name": "157",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "158": {
+      "class_name": "158",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "159": {
+      "class_name": "159",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "160": {
+      "class_name": "160",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "161": {
+      "class_name": "161",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "162": {
+      "class_name": "162",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "163": {
+      "class_name": "163",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "164": {
+      "class_name": "164",
+      "base_files": [
+        "09_R",
+        "07_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "165": {
+      "class_name": "165",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "166": {
+      "class_name": "166",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "167": {
+      "class_name": "167",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "169": {
+      "class_name": "169",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "170": {
+      "class_name": "170",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "171": {
+      "class_name": "171",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
       ]
     },
     "172": {
       "class_name": "172",
       "base_files": [
-        "172d8R.txt",
-        "172d6R.txt",
-        "172d7R.txt"
+        "10_R",
+        "07_R",
+        "09_R"
       ],
       "comparison_files": [
-        "172d5R.txt",
-        "172d9R.txt"
+        "06_R",
+        "08_R"
+      ]
+    },
+    "173": {
+      "class_name": "173",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "174": {
+      "class_name": "174",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "175": {
+      "class_name": "175",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "176": {
+      "class_name": "176",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "177": {
+      "class_name": "177",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "178": {
+      "class_name": "178",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "181": {
+      "class_name": "181",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "183": {
+      "class_name": "183",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "184": {
+      "class_name": "184",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "187": {
+      "class_name": "187",
+      "base_files": [
+        "09_R",
+        "07_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "189": {
+      "class_name": "189",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "190": {
+      "class_name": "190",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "191": {
+      "class_name": "191",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "192": {
+      "class_name": "192",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "193": {
+      "class_name": "193",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "194": {
+      "class_name": "194",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "195": {
+      "class_name": "195",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "197": {
+      "class_name": "197",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "198": {
+      "class_name": "198",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "199": {
+      "class_name": "199",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "200": {
+      "class_name": "200",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "201": {
+      "class_name": "201",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "202": {
+      "class_name": "202",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "203": {
+      "class_name": "203",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "204": {
+      "class_name": "204",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "205": {
+      "class_name": "205",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "207": {
+      "class_name": "207",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "208": {
+      "class_name": "208",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "209": {
+      "class_name": "209",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "210": {
+      "class_name": "210",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "212": {
+      "class_name": "212",
+      "base_files": [
+        "07_R",
+        "10_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "213": {
+      "class_name": "213",
+      "base_files": [
+        "10_R",
+        "09_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "214": {
+      "class_name": "214",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "215": {
+      "class_name": "215",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "216": {
+      "class_name": "216",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "219": {
+      "class_name": "219",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "220": {
+      "class_name": "220",
+      "base_files": [
+        "09_R",
+        "10_R",
+        "07_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "221": {
+      "class_name": "221",
+      "base_files": [
+        "07_R",
+        "09_R",
+        "10_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
+      ]
+    },
+    "222": {
+      "class_name": "222",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "08_R",
+        "06_R"
+      ]
+    },
+    "223": {
+      "class_name": "223",
+      "base_files": [
+        "10_R",
+        "07_R",
+        "09_R"
+      ],
+      "comparison_files": [
+        "06_R",
+        "08_R"
       ]
     }
   }
