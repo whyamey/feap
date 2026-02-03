@@ -28,6 +28,12 @@ cd lsh-lock
 ```
 For detailed build and usage instructions, see the README in each submodule.
 
+## Synthetic Iris Embeddings
+We cannot directly distribute embeddings from the IITD dataset, as it is a licensed dataset. This means you would need to acquire the dataset yourself and run our segmentation and inference pipeline on it.
+However, we recognize this may not be feasible or could involve significant effort for those who simply want embeddings to run their experiments. To address this, we've generated embeddings using the same pipeline on synthetic irises, producing embeddings of identical dimensions. These synthetic embeddings actually perform slightly better than those from IITD, since all synthetic iris images are of very high quality. 
+
+These synthetic iris embeddings are available in the GitHub release for this repository. Since they are trained using the same methods, you can cite the paper directly when using these embeddings.
+
 ## Citation
 If you use our work, please cite:
 ```
